@@ -1,0 +1,4 @@
+Compile:
+    qmake -project	//to generate the .pro file
+    qmake			//to generate Makefile
+    make			//to generate executive file
